@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Harish Kumar  <br><br>### 📊 Senior Reporting Analyst | Data Analyst | Aspiring Data Scientist  <br><br>Over 7 years of experience in **data analysis, reporting, and visualization**, I specialize in converting complex datasets into actionable business insights. Skilled in **Power BI, SQL, DAX, Power Query, VBA, Matillion, and Advanced Excel**, I design interactive dashboards and automated pipelines that empower decision‑making.  <br><br>---<br><br>## 🚀 Highlights<br>- Built **8+ interactive Power BI dashboards** for global clients including *Amazon Prime Video* and *Urban Company*.  <br>- Reduced report development time by **50%** through best practices and custom visuals.  <br>- Implemented **row‑level security** in Power BI to ensure compliance with data protection regulations.  <br>- Automated ETL workflows using **Matillion + Power Query**, boosting data reliability.  <br>- Delivered **fully automated reporting projects** integrated with Power BI.  <br>- Recognized as *Emerging Star of the Team* and appreciated by onshore client managers.  <br><br>---<br><br>## 🛠️ Skills<br>- **Data Analysis & Transformation:** SQL, Power Query, VBA, Advanced Excel  <br>- **Visualization & Reporting:** Power BI, DAX, Matplotlib, Google Suite  <br>- **ETL & Automation:** Matillion, API connectors, Power Query, Data Warehouse, Redshift  <br><br>---<br><br>## 📂 Projects<br>- **Automated Dashboard (Power BI + Matillion + Power Query)**  <br>  - Urban Company (UAE & Singapore)  <br>  - Amazon Prime Video (London)  <br>  - Resort World Sentosa (Singapore)  <br><br>---<br><br>## 🎓 Education<br>- **B.Tech in Mechanical Engineering** – Swami Parmanand College, Punjab  <br>- **Diploma in Data Science (Pursuing)** – Expanding into machine learning, analytics, and visualization  <br><br>---<br><br>## 🏆 Recognition<br>- *Emerging Star of the Team* – M&C Saatchi Performance  <br>- *Client Recognition* – Onshore technical manager appreciation  <br>
 
-<!--
-**harishus2013hk-web/harishus2013hk-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-kumar-b48880193/) 
+[![Naukri Profile](https://img.shields.io/badge/Naukri-Profile-blue)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Matillion](https://img.shields.io/badge/Matillion-006644?style=for-the-badge&logo=matillion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=harishus2013hk-web&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=harishus2013hk-web&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
