@@ -70,7 +70,7 @@
 ### 🔷 Enterprise BI Dashboard Suite — Power BI
 > *M&C Saatchi Performance | 2022–2025*
 
-- Designed **20+ interactive dashboards** covering sales, marketing & operations KPIs for global clients
+- Designed **10+ interactive dashboards** covering sales, marketing & operations KPIs for global clients
 - Applied **star-schema modeling** to cut report load times by **40%**
 - Built advanced **DAX measures** for YoY growth, time-intelligence, and trend tracking
 - Integrated **live API connectors** with automated data refresh schedules
