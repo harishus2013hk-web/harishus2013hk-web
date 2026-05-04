@@ -148,7 +148,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harishus2013hk-web&theme=dark&hide_border=false" /><br/>
+  <img src="https://streak-stats.demolab.com?user=harishus2013hk-web&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
@@ -158,3 +158,4 @@
   <i>"Turning raw data into decisions — one dashboard at a time."</i><br><br>
   📬 Reach me at <a href="mailto:harishus2013.hk@gmail.com">harishus2013.hk@gmail.com</a>
 </p>
+
