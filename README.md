@@ -2,14 +2,16 @@
 
 # Harish Kumar
 
-**Senior Reporting Analyst · BI Developer · Aspiring Data Scientist**
+**Senior Reporting Analyst · Business Intelligence Developer · Aspiring Data Scientist**
 
 *Turning raw data into decisions — one dashboard at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harish-kumar-b48880193/)
-[![Naukri](https://img.shields.io/badge/Naukri-Profile-FF7555?style=flat-square)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-kumar-b48880193/)
 [![Email](https://img.shields.io/badge/Email-harishus2013.hk@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harishus2013.hk@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91--8744921667-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918744921667)
 [![Profile Views](https://komarev.com/ghpvc/?username=harishus2013hk-web&style=flat-square&color=0e75b6)](https://github.com/harishus2013hk-web)
+
+📍 Delhi, India &nbsp;·&nbsp; Open to BI, Data Analytics & Data Science roles (Hybrid / Remote)
 
 </div>
 
@@ -17,136 +19,135 @@
 
 ## About Me
 
-I'm a Delhi-based data professional with **7+ years** of hands-on experience in **Business Intelligence, ETL development, and advanced analytics**. I've built reporting ecosystems for global brands — from Amazon Prime Video in London to Urban Company across UAE & Singapore.
+Results-driven **Senior Reporting Analyst** with **7+ years** of experience in Business Intelligence, data visualization, and ETL development. Expert in **Power BI, DAX, SQL, and Matillion** — with a proven record of reducing report load times by **40%** and saving **10+ hours/week** through automation.
 
-My sweet spot is the intersection of **clean data architecture** and **compelling visualisation** — building Power BI systems that don't just look good, but load fast, scale well, and tell the right story. I'm now deepening my skill set into **Data Science and Machine Learning** through a formal diploma and self-driven Python projects.
-
-```
-📍 Delhi, India     🧭 Open to BI, Analytics & Data Science roles (Hybrid / Remote)
-```
+I've built scalable, executive-grade analytics systems for global brands like **Amazon Prime Video**, **Urban Company**, and **Resorts World Sentosa**. Currently expanding into **Data Science** — studying Python, Machine Learning, and Statistical Modelling via a Diploma at AAFT University.
 
 ---
 
 ## Impact at a Glance
 
-| Metric | What I Did |
-|--------|-----------|
-| ⚡ **40% faster** report load times | Star-schema data modelling in Power BI |
-| 🕐 **10+ hrs/week** saved | VBA & Power Query automation at Systopic Lab |
+| Metric | Achievement |
+|--------|-------------|
+| ⚡ **40% faster** report load times | Star-schema modelling + query folding in Power BI |
+| 🕐 **10+ hrs/week** saved | VBA & Power Query report automation |
 | 🔄 **80% less** manual data handling | Automated ETL pipelines via Matillion → Redshift |
-| 📊 **8+ enterprise dashboards** shipped | Across sales, marketing & ops for global clients |
-| 🔐 **RLS implemented** | Data governance & role-based security in Power BI |
+| 📊 **10+ enterprise dashboards** delivered | Sales, marketing & ops for global clients |
+| 🔐 **RLS implemented** | Role-based data governance across stakeholders |
+| 📈 **C-level reporting** | Executive drill-through dashboards for strategic decisions |
 
 ---
 
 ## Tech Stack
 
-### Business Intelligence & Visualisation
+### 📊 Business Intelligence & Visualisation
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel%20%2B%20VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query%20(M)-F2C811?style=flat-square&logo=microsoft&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Star Schema](https://img.shields.io/badge/Star%20Schema%20Design-4B0082?style=flat-square)
+![Row-Level Security](https://img.shields.io/badge/Row--Level%20Security-CC0000?style=flat-square)
 
-### Data & Databases
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=databricks&logoColor=white)
+### 🗄️ Database & ETL
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Matillion](https://img.shields.io/badge/Matillion%20ETL-006644?style=flat-square)
+![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### ETL & Automation
-![Matillion](https://img.shields.io/badge/Matillion-006644?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power%20Query%20%28M%29-F2C811?style=flat-square&logo=microsoft&logoColor=black)
-![VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+### ⚙️ Productivity & Automation
+![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![MIS Reporting](https://img.shields.io/badge/MIS%20Reporting-0078D4?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-8B0000?style=flat-square)
 
-### Python & Data Science *(active learner)*
+### 🐍 Python & Data Science *(pursuing)*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA%20%26%20Feature%20Engineering-brightgreen?style=flat-square)
+![Supervised ML](https://img.shields.io/badge/Supervised%20ML-9C27B0?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
-## Featured Projects
+## Work Experience
 
-### 🟦 Enterprise Power BI Dashboard Suite
-> **M&C Saatchi Performance · 2022–2025**
+### Senior Reporting Analyst — M&C Saatchi Performance, Delhi
+`Jun 2022 – Apr 2025`
 
-Built and maintained **10+ interactive dashboards** serving global clients across sales, marketing, and operations. Introduced star-schema modelling that cut load times by **40%**, and authored advanced DAX measures for time-intelligence, YoY comparisons, and funnel analysis. Integrated live API connectors with automated refresh schedules.
+- Designed and delivered **10+ interactive Power BI dashboards** for global clients to track sales, marketing, and operational KPIs
+- Improved report performance by **40%** through star-schema modelling, optimised indexing, and query folding
+- Developed advanced **DAX measures** for YoY growth, time intelligence, KPI benchmarking, and performance analysis
+- Implemented **Row-Level Security (RLS)** to enforce data governance and role-based access controls across stakeholders
+- Built automated **ETL pipelines using Matillion**, integrating API and flat-file data into Amazon Redshift — reducing manual effort by **80%**
+- Automated recurring business reports via **Excel VBA and Power Query**, saving **10+ hours/week**
+- Delivered drill-through analytics and **C-level executive dashboards** to support strategic planning
 
-**Clients:** Amazon Prime Video (London) · Urban Company (UAE & Singapore) · Resort World Sentosa (Singapore)
-
-`Power BI` `DAX` `Star Schema` `Power Query` `Row-Level Security` `API Connectors`
-
----
-
-### 🟦 Automated ETL Pipeline — Matillion & Amazon Redshift
-> **M&C Saatchi Performance · 2022–2025**
-
-Designed scalable ETL pipelines that ingest data from REST APIs, flat files, and mixed sources into Amazon Redshift. Automated transformation workflows with Power Query (M Language), reducing manual data handling by **80%** through scheduled pipeline execution.
-
-`Matillion` `Amazon Redshift` `Power Query (M)` `AWS` `ETL Design` `API Integration`
+**Key Clients:** Amazon Prime Video (London) · Urban Company (UAE & Singapore) · Resorts World Sentosa (Singapore)
 
 ---
 
-### 🟦 Excel VBA Reporting Automation
-> **Systopic Lab Pvt. Ltd · 2017–2022**
+### Sr. MIS Executive — Systopic Laboratories Pvt. Ltd, Delhi
+`Jul 2017 – Jun 2022`
 
-Eliminated **10+ hours/week** of manual effort by scripting weekly and monthly report generation in VBA. Delivered dynamic dashboards using pivot tables, slicers, and conditional formatting; later enhanced with Power Query for faster, more reliable data refresh.
-
-`Excel VBA` `Power Query` `Pivot Tables` `Dashboard Design` `Process Automation`
-
----
-
-### 🟦 Exploratory Data Analysis — Python
-> **AAFT University Diploma Project · 2025–2026**
-
-Applying EDA techniques on real-world datasets using Pandas, NumPy, Matplotlib, and Seaborn. Identifying trends, outliers, and statistical distributions; building foundational ML models using Scikit-learn for regression, classification, and clustering.
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-Learn` `EDA`
+- Built **Power BI dashboards** visualising critical KPIs for executives and operational teams
+- Transformed raw data into insights using **Power Query** and dynamic DAX measures
+- Automated recurring reports via **Excel VBA**, saving 10+ hours/week and eliminating manual data entry errors
+- Developed dynamic Excel dashboards with **pivot tables, slicers, and conditional formatting** for real-time KPI tracking
 
 ---
 
-## Experience
+### Quality Assurance Engineer — Amtek Auto Ltd, Dharuhera
+`Oct 2012 – Nov 2016`
 
-| Period | Role | Organisation |
-|--------|------|-------------|
-| Jun 2022 – Apr 2025 | **Senior Reporting Analyst** | M&C Saatchi Performance, Delhi |
-| Jul 2017 – Jun 2022 | **Sr. Coordinator – Administrative Services** | Systopic Lab Pvt. Ltd, Delhi |
-| Oct 2012 – Nov 2016 | **Quality Assurance Engineer** | Amtek Auto Ltd, Dharuhera |
-
----
-
-## Education & Certifications
-
-| Qualification | Institution | Status |
-|--------------|-------------|--------|
-| 📚 Diploma in Data Science | AAFT University, Noida | 2025–2026 *(Pursuing)* |
-| 🎓 B.Tech – Mechanical Engineering | Swami Parmanand Group of Colleges, Punjab | 2007–2011 |
-| 📜 Microsoft PL-300 – Power BI Analyst | Microsoft | *In Progress* |
-| ☁️ AWS Cloud Practitioner | Amazon Web Services | *In Progress* |
+- Led in-process, final, and incoming inspection of machined automotive components
+- Conducted root cause analysis using **8D, 5 Why, and Fishbone** methodologies
+- Performed **SPC, MSA, and process capability studies** to monitor manufacturing quality
+- Managed PPAP, Control Plans, COPQ and Pareto reports for continuous improvement
 
 ---
 
-## Recognition
+## Education
 
-🥇 **Employee of the Year** — M&C Saatchi Performance, recognised by the onshore client technical manager at Amazon Prime Video
-
-⭐ **Emerging Star of the Team** — M&C Saatchi Performance
-
-👏 **Client Appreciation** — Formal recognition from technical leads at Amazon Prime Video and Urban Company
+| Qualification | Institution | Year |
+|--------------|-------------|------|
+| 📚 Diploma in Data Science *(Pursuing)* | AAFT University, Noida | 2025 – Present |
+| 🎓 B.Tech — Mechanical Engineering | Swami Parmanand College, Punjab | 2007 – 2011 |
 
 ---
 
-## Currently Building
+## Certifications
 
-- 🧠 **Python + ML skills** through diploma coursework and personal projects
-- 📜 **PL-300** (Power BI Data Analyst) certification prep
-- ☁️ **AWS Cloud Practitioner** certification prep
-- 🗂️ **Public portfolio** of BI and data science projects — watch this space
+| Certificate | Platform |
+|------------|----------|
+| 🟡 PL-300 Power BI Data Analyst Preparation | Udemy |
+| 🟠 Python, ML & Data Science | Udemy |
+| ☁️ AWS Cloud Practitioner | Amazon Web Services |
+| 🧠 NLP (Natural Language Processing) | Udemy |
+| 🔷 Microsoft Fabric | Udemy |
+
+---
+
+## Awards & Recognition
+
+🥇 **Employee of the Year (2022)** — M&C Saatchi Performance
+> Recognised by the onshore client technical manager for outstanding performance and delivery
+
+⭐ **Emerging Star of the Team** — Systopic Laboratories Pvt. Ltd
+
+---
+
+## Currently Working On
+
+- 🧠 Deepening **Python, ML & NLP** skills via diploma coursework and Udemy courses
+- 📜 Completing **PL-300** Power BI Data Analyst certification
+- ☁️ Completing **AWS Cloud Practitioner** certification
+- 🔷 Exploring **Microsoft Fabric** for next-gen BI architecture
+- 🗂️ Building a **public portfolio** of BI and Data Science projects on GitHub
 
 ---
 
@@ -166,6 +167,6 @@ Applying EDA techniques on real-world datasets using Pandas, NumPy, Matplotlib, 
 
 <div align="center">
 
-*📬 [harishus2013.hk@gmail.com](mailto:harishus2013.hk@gmail.com) · 🌐 [LinkedIn](https://www.linkedin.com/in/harish-kumar-b48880193/) · 📍 Delhi, India*
+*📬 [harishus2013.hk@gmail.com](mailto:harishus2013.hk@gmail.com) · 📞 +91-8744921667 · 🌐 [LinkedIn](https://www.linkedin.com/in/harish-kumar-b48880193/) · 📍 Delhi, India*
 
 </div>
