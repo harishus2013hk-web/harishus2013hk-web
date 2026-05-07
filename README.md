@@ -4,7 +4,7 @@
 
 **Senior Reporting Analyst · Business Intelligence Developer · Aspiring Data Scientist**
 
-*Turning raw data into decisions — one dashboard at a time.*
+*Turning raw data into decisions*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-kumar-b48880193/)
 [![Email](https://img.shields.io/badge/Email-harishus2013.hk@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harishus2013.hk@gmail.com)
