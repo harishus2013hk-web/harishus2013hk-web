@@ -1,143 +1,145 @@
-<h1 align="center">Hi, I'm Harish Kumar 👋</h1>
-<h3 align="center">Senior Reporting Analyst · Data Analyst · Power BI Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harish-kumar-b48880193/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
-    <img src="https://img.shields.io/badge/Naukri-Profile-blue?style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=harishus2013hk-web&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-</p>
+# Hi there, I'm Harish Kumar 👋
 
----
+### Senior Data Analyst | Power BI Developer | BI & Analytics Specialist
 
-## 👨‍💼 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-kumar-b48880193)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harishus2013hk-web)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishus2013.hk@gmail.com)
+[![Location](https://img.shields.io/badge/Delhi,_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-🎯 with 7+ years of experience building data solutions that drive real business decisions. I specialize in Power BI, DAX, ETL pipelines, and SQL optimization — turning messy raw data into clean, actionable dashboards.
-
-I've delivered solutions for global brands like **Amazon Prime Video**, **Urban Company**, and **Resorts World Sentosa**, consistently:
-
-- 📉 Reducing manual reporting effort by **80%**
-- ⚡ Improving dashboard performance by **40%**
-- ⏱️ Cutting time-to-insight from **days to hours**
-
-Currently expanding into **Machine Learning** and **Statistical Modeling** — because good BI tells you what happened, and ML helps you predict what's next.  
+</div>
 
 ---
 
-## 🚀 Career Highlights
+## 👨‍💻 About Me
 
-- 📉 Reduced **report load times by 40%** by designing scalable star-schema data models in Power BI  
-- ⏱️ Saved **10+ hours/week** through Excel VBA automation and Power Query scripted reporting  
-- 🔐 Implemented **Row-Level Security (RLS)** in Power BI for data governance and compliance  
-- 🔄 Built **automated ETL pipelines** using Matillion to load data from APIs & flat files into Amazon Redshift  
-- 📊 Delivered **8+ enterprise Power BI dashboards** for sales, marketing, and operations across global clients  
-- 🏅 Recognized by **onshore client technical manager** for consistent high-impact delivery  
+> *Turning raw data into business decisions — one dashboard at a time.*
+
+I'm a **Senior Data Analyst with 7+ years of experience** delivering enterprise-grade BI, reporting, and analytics solutions. I've built **8+ enterprise dashboards** for global clients including **Amazon Prime Video** and **Urban Company**, improving reporting efficiency and optimizing dashboard performance by **40%**.
+
+Currently upskilling via a **Diploma in Data Science** at AAFT University and holding a freshly earned **Microsoft Fabric Fundamentals** certification.
+
+- 🔭 Currently learning **Microsoft Fabric, NLP & Advanced Machine Learning**
+- 🏆 **Employee of the Year 2023** — M&C Saatchi Performance
+- ⚡ Fun fact: I transitioned from **Mechanical Engineering → QA → Data Analytics** — proving data finds its way into every discipline!
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-217346?style=flat-square&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=flat-square&logo=microsoft&logoColor=white)
 
-### 🗄️ Database & Query
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20Redshift-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🗄️ SQL & Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
 
-### ⚙️ ETL & Automation
-![Matillion](https://img.shields.io/badge/Matillion-006644?style=for-the-badge&logo=matillion&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 🔄 ETL & Data Engineering
+![Matillion](https://img.shields.io/badge/Matillion-00A3E0?style=flat-square&logo=matillion&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-### 🐍 Data Science & Python
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+### 🐍 Python & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
----
-
-## 📊 Featured Projects
-
-### 🎬 Advertisement Sales Prediction
-**`Python` `Linear Regression` `Pandas` `Scikit-learn` `Matplotlib`**
-
-> Predicts advertisement revenue based on TV, radio, and newspaper spend.
-
-- Identified **TV advertising** as the strongest sales driver via correlation analysis
-- Achieved high model accuracy with low RMSE after feature selection & residual diagnostics
-- Visualized regression fit, residuals, and feature impact for clear stakeholder communication
+### 📋 Excel & Automation
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
-### 🎥 Movie Recommendation System
-**`Python` `NLP` `TF-IDF` `Cosine Similarity` `NLTK` `Pandas`**
+## 🚀 Featured Project
 
-> Content-based recommendation engine returning top 5 similar movies for any search.
+### 🎬 Content-Based Movie Recommendation System
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/harishus2013hk-web)
+[![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/harishus2013hk-web)
+[![TF-IDF](https://img.shields.io/badge/TF--IDF-0277BD?style=flat-square&logo=python&logoColor=white)](https://github.com/harishus2013hk-web)
 
-- Applied **TF-IDF vectorization** on movie metadata: title, genre, overview, cast
-- Cleaned and processed the Kaggle TMDB dataset — handling nulls, duplicates, and inconsistencies
-- Instant search: input any movie title → get 5 ranked recommendations by similarity score
+> Built a content-based recommendation engine using **Python, TF-IDF, NLP & cosine similarity** to recommend similar movies from 4,800+ titles.
 
-## 💼 Work Experience Highlights
-
-| Period | Role | Company | Key Impact |
-|--------|------|---------|------------|
-| 2022–2025 | Senior Reporting Analyst | M&C Saatchi Performance | 80% less manual effort, 40% faster dashboards |
-| 2017–2022 | Senior MIS Executive | Systopic Laboratories | 10+ hrs/week saved via VBA automation |
-| 2011–2016 | QA Engineer | Amtek Auto / Sogefi | Data-driven quality engineering foundation |
+**Highlights:**
+- 📁 End-to-end ML pipeline: data preprocessing → feature engineering → model building
+- 🧠 Used **NLTK & Scikit-learn** for NLP-driven feature extraction
+- 💾 Deployment-ready serialization with **Pickle**
+- 🎯 Trained on a dataset of **4,800+ movies**
 
 ---
 
-## 🏅 Certifications
+## 📈 Key Achievements
 
-- 🟡 **AWS Cloud Practitioner**
-- 📊 **PL-300 Power BI Data Analyst** (Microsoft / Udemy)
-- 🧵 **Microsoft Fabric** (Udemy)
-- 🐍 **Python & Machine Learning** (Udemy)
-- 🔤 **Natural Language Processing** (Udemy)
+| Achievement | Impact |
+|-------------|--------|
+| ⚡ Dashboard Performance Optimization | **40% faster** load times via Power Query & Incremental Refresh |
+| 🤖 Reporting Automation (M&C Saatchi) | Saved **15+ hours/week** with Python & Excel VBA scripts |
+| 📊 MIS Automation (Systopic Labs) | Saved **10+ hours/week** via Excel VBA macros |
+| 🏆 Employee of the Year | Recognized at **M&C Saatchi Performance (2023)** |
+| ⭐ Emerging Star | Awarded at **Systopic Laboratories Pvt. Ltd.** |
+
+---
+
+## 🏢 Work Experience Timeline
+
+```
+2025 – Present  🎓  Career Break — Diploma in Data Science @ AAFT University, Noida
+2022 – 2025     💼  Senior Reporting Analyst @ M&C Saatchi Performance, Delhi
+2017 – 2022     📊  Senior MIS Executive @ Systopic Laboratories Pvt. Ltd., Delhi
+2011 – 2016     🔧  Q.A. Engineer @ Amtek Auto Ltd & Sogefi Engine Systems
+```
+
+---
+
+## 📜 Certifications
+
+- ☁️ **AWS Certified Cloud Practitioner**
+- 📊 **PL-300: Microsoft Power BI Analyst** *(Udemy)*
+- 🧵 **Microsoft Fabric Fundamentals** *(Udemy)*
+- 🐍 **Python for Data Science & Machine Learning** *(Udemy)*
+- 🤖 **Natural Language Processing with Python** *(Udemy)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
 
 ## 🎓 Education
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| 📚 **Diploma in Data Science** *(Pursuing)* | AAFT University, Noida | 2025 – 2026 |
-| 🎓 **B.Tech – Mechanical Engineering** | Swami Parmanand Group of Colleges, Punjab | 2007 – 2011 |
-
-**Data Science Coursework:** Python · Machine Learning · Statistical Modeling · Data Visualization · EDA · Deep Learning
+| 📊 Diploma in Data Science | AAFT University, Noida | 2025–2026 |
+| ⚙️ B.Tech in Mechanical Engineering | Swami Parmanand Group of Colleges, Punjab | 2007–2011 |
 
 ---
 
-## 🏆 Awards & Recognition
+<div align="center">
 
-🥇 **Employee of the Year** – M&C Saatchi Performance (2022–2025), recognized by onshore client technical manager  
-⭐ **Emerging Star of the Team** – M&C Saatchi Performance  
-👏 **Client Recognition** – Appreciation from Amazon Prime Video & Urban Company technical leads  
+### 💬 Let's Connect!
 
+*Open to opportunities in BI Development, Data Analytics & Data Engineering*
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://streak-stats.demolab.com?user=harishus2013hk-web&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-kumar-b48880193)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishus2013.hk@gmail.com)
 
 ---
 
-<p align="center">
-  <i>"Turning raw data into decisions — one dashboard at a time."</i><br><br>
-  📬 Reach me at <a href="mailto:harishus2013.hk@gmail.com">harishus2013.hk@gmail.com</a>
-</p>
+*"Data is the new oil — I help refine it into insights."*
 
+![Profile Views](https://komarev.com/ghpvc/?username=harishus2013hk-web&color=blue&style=flat-square)
+
+</div>
