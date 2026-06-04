@@ -1,139 +1,141 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Harish Kumar</h1>
+<h3 align="center">Senior Data Analyst | Power BI Developer | Data Science Enthusiast</h3>
 
-# Hi there, I'm Harish Kumar 👋
-
-### Senior Data Analyst | Power BI Developer | BI & Analytics Specialist
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-kumar-b48880193)
-[![Naukri](https://img.shields.io/badge/Naukri-0057FF?style=for-the-badge)](https://www.naukri.com/mnjuser/profile?id=&altresid)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishus2013.hk@gmail.com)
-[![Location](https://img.shields.io/badge/Delhi,_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/harish-kumar-b48880193">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:harishus2013.hk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/harishus2013hk-web">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
-## 📊 GitHub Stats
 
-<div align="center">
+## 🚀 About Me
 
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+📊 Senior Reporting Analyst with 7+ years of experience in Business Intelligence, Analytics, and Reporting.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&layout=compact&theme=tokyonight&hide_border=true)
+🔹 Power BI Expert with experience designing enterprise dashboards for global brands.
 
-</div>
-## 👨‍💻 About Me
+🔹 Skilled in SQL, DAX, Power Query, Amazon Redshift, Matillion, Python, and Microsoft Fabric.
 
-> *Turning raw data into business decisions — one dashboard at a time.*
+🔹 Built scalable ETL pipelines and reporting solutions that improved business decision-making and reporting efficiency.
 
-I'm a **Senior Data Analyst with 7+ years of experience** delivering enterprise-grade BI, reporting, and analytics solutions. I've built **8+ enterprise dashboards** for global clients including **Amazon Prime Video** and **Urban Company**, improving reporting efficiency and optimizing dashboard performance by **40%**.
+🔹 Currently pursuing a Diploma in Data Science and expanding expertise in Machine Learning & NLP.
 
-Currently upskilling via a **Diploma in Data Science** at AAFT University and holding a freshly earned **Microsoft Fabric Fundamentals** certification.
+---
 
 ## 🛠️ Tech Stack
 
-### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-217346?style=flat-square&logo=microsoft&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=flat-square&logo=microsoft&logoColor=white)
+### 📈 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-02569B?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
 
-### 🗄️ SQL & Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
+### 🗄️ Databases & SQL
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonaws)
 
-### 🔄 ETL & Data Engineering
-![Matillion](https://img.shields.io/badge/Matillion-00A3E0?style=flat-square&logo=matillion&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+### ⚙️ Data Engineering
+![Matillion](https://img.shields.io/badge/Matillion-FF6C37?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-Pipelines-blue?style=for-the-badge)
 
-### 🐍 Python & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+### 🤖 Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
-### 📋 Excel & Automation
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft&logoColor=white)
+### ☁️ Cloud & Modern Data Platform
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Project
+## 💼 Professional Highlights
 
-### 🎬 Content-Based Movie Recommendation System
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/harishus2013hk-web)
-[![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/harishus2013hk-web)
-[![TF-IDF](https://img.shields.io/badge/TF--IDF-0277BD?style=flat-square&logo=python&logoColor=white)](https://github.com/harishus2013hk-web)
+✅ Developed 8+ enterprise-level Power BI dashboards
 
----
+✅ Improved dashboard performance by 40%
 
-## 📈 Key Achievements
+✅ Automated reporting processes saving 15+ hours per week
 
-| Achievement | Impact |
-|-------------|--------|
-| ⚡ Dashboard Performance Optimization | **40% faster** load times via Power Query & Incremental Refresh |
-| 🤖 Reporting Automation (M&C Saatchi) | Saved **15+ hours/week** with Python & Excel VBA scripts |
-| 📊 MIS Automation (Systopic Labs) | Saved **10+ hours/week** via Excel VBA macros |
-| 🏆 Employee of the Year | Recognized at **M&C Saatchi Performance (2023)** |
-| ⭐ Emerging Star | Awarded at **Systopic Laboratories Pvt. Ltd.** |
+✅ Built ETL pipelines using Matillion & Amazon Redshift
+
+✅ Implemented Row-Level Security (RLS) and Incremental Refresh
+
+✅ Worked with global clients including Amazon Prime Video
 
 ---
 
-## 🏢 Work Experience Timeline
+## 📂 Featured Projects
 
-```
-2025 – Present  🎓  Career Break — Diploma in Data Science @ AAFT University, Noida
-2022 – 2025     💼  Senior Reporting Analyst @ M&C Saatchi Performance, Delhi
-2017 – 2022     📊  Senior MIS Executive @ Systopic Laboratories Pvt. Ltd., Delhi
-2011 – 2016     🔧  Q.A. Engineer @ Amtek Auto Ltd & Sogefi Engine Systems
-```
+### 🎬 Movie Recommendation System
+Content-based recommendation engine built using:
+
+- Python
+- Pandas
+- Scikit-learn
+- NLP
+- TF-IDF
+- Cosine Similarity
+
+Features:
+- Recommends similar movies
+- 4,800+ movie dataset
+- End-to-end ML pipeline
 
 ---
 
 ## 📜 Certifications
 
-- ☁️ **AWS Certified Cloud Practitioner**
-- 📊 **PL-300: Microsoft Power BI Analyst** *(Udemy)*
-- 🧵 **Microsoft Fabric Fundamentals** *(Udemy)*
-- 🐍 **Python for Data Science & Machine Learning** *(Udemy)*
-- 🤖 **Natural Language Processing with Python** *(Udemy)*
+🏆 AWS Certified Cloud Practitioner
+
+🏆 Microsoft Fabric Fundamentals
+
+🏆 PL-300 Power BI Analyst
+
+🏆 Python for Data Science & Machine Learning
+
+🏆 Natural Language Processing with Python
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight" />
+</p>
 
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| 📊 Diploma in Data Science | AAFT University, Noida | 2025–2026 |
-| ⚙️ B.Tech in Mechanical Engineering | Swami Parmanand Group of Colleges, Punjab | 2007–2011 |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishus2013hk-web&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="center">
+## 🌱 Currently Learning
 
-### 💬 Let's Connect!
-
-*Open to opportunities in BI Development, Data Analytics & Data Engineering*
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-kumar-b48880193)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishus2013.hk@gmail.com)
+- Microsoft Fabric
+- Data Science
+- Machine Learning
+- NLP
+- Lakehouse Architecture
+- Databricks
 
 ---
 
-*"Data is the new oil — I help refine it into insights."*
+## 📫 Connect With Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=harishus2013hk-web&color=blue&style=flat-square)
+📧 harishus2013.hk@gmail.com
 
-</div>
+💼 LinkedIn: https://linkedin.com/in/harish-kumar-b48880193
+
+🐙 GitHub: https://github.com/harishus2013hk-web
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories!
