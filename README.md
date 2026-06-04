@@ -108,14 +108,15 @@ Currently upskilling via a **Diploma in Data Science** at AAFT University and ho
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=harishus2013hk-web&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishus2013hk-web&theme=github" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harishus2013hk-web" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harishus2013hk-web&theme=flat" />
+</p>
 </div>
 
 ---
