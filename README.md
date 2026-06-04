@@ -110,13 +110,11 @@ Currently upskilling via a **Diploma in Data Science** at AAFT University and ho
 
 <div align="center">
 
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&layout=compact&theme=tokyonight&hide_border=true"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harishus2013hk-web&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=harishus2013hk-web&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://streak-stats.demolab.com?user=harishus2013hk-web&theme=tokyonight&hide_border=true"/>
 
 </div>
 
