@@ -5,8 +5,8 @@
 ### Senior Data Analyst | Power BI Developer | BI & Analytics Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-kumar-b48880193)
-[![Naukri](https://img.shields.io/badge/Naukri-181717?style=for-the-badge&logo=naukri&logoColor=white)](naukri.com/mnjuser/profile?id=&altresid)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishus2013.hk@gmail.com)
+[![Naukri](https://img.shields.io/badge/Naukri-FF7555?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxgQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZxml8C8AAABuSURBVCiRY2AYBdQFTAz/GRj+M5ABGBkZ/xMD1BdOYGBg+E9M8R8MDAwMjOTYQVUAAoypqakMhJQzMDAwMJKjmJqKQQoZGRn/k2MxKysrAyMDAwPZFpOtmJGRkYGRjIApKSkDIwMDA8NAAAAULxAKoYr8SQAAAABJRU5ErkJggg==&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 [![Location](https://img.shields.io/badge/Delhi,_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -20,6 +20,10 @@
 I'm a **Senior Data Analyst with 7+ years of experience** delivering enterprise-grade BI, reporting, and analytics solutions. I've built **8+ enterprise dashboards** for global clients including **Amazon Prime Video** and **Urban Company**, improving reporting efficiency and optimizing dashboard performance by **40%**.
 
 Currently upskilling via a **Diploma in Data Science** at AAFT University and holding a freshly earned **Microsoft Fabric Fundamentals** certification.
+
+- 🔭 Currently learning **Microsoft Fabric, NLP & Advanced Machine Learning**
+- 🏆 **Employee of the Year 2023** — M&C Saatchi Performance
+- ⚡ Fun fact: I transitioned from **Mechanical Engineering → QA → Data Analytics** — proving data finds its way into every discipline!
 
 ---
 
@@ -106,11 +110,15 @@ Currently upskilling via a **Diploma in Data Science** at AAFT University and ho
 
 <div align="center">
 
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harishus2013hk-web&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
+
+> 💡 **Note:** Stats reflect public repositories. Private contributions are counted but repos remain hidden.
 
 ---
 
