@@ -110,13 +110,17 @@ Currently upskilling via a **Diploma in Data Science** at AAFT University and ho
 
 <div align="center">
 
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harishus2013hk-web&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harishus2013hk-web&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=harishus2013hk-web&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
+
+---
 
 > 💡 **Note:** Stats reflect public repositories. Private contributions are counted but repos remain hidden.
 
