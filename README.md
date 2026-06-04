@@ -5,7 +5,7 @@
 ### Senior Data Analyst | Power BI Developer | BI & Analytics Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-kumar-b48880193)
-[![Naukri](https://img.shields.io/badge/Naukri-0057FF?style=for-the-badge)](https://www.naukri.com)(https://www.naukri.com/mnjuser/profile?id=&altresid)
+[![Naukri](https://img.shields.io/badge/Naukri-0057FF?style=for-the-badge)](https://www.naukri.com/mnjuser/profile?id=&altresid)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishus2013.hk@gmail.com)
 [![Location](https://img.shields.io/badge/Delhi,_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
