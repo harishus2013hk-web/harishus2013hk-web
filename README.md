@@ -12,7 +12,15 @@
 </div>
 
 ---
+## 📊 GitHub Stats
 
+<div align="center">
+
+![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishus2013hk-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishus2013hk-web&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 ## 👨‍💻 About Me
 
 > *Turning raw data into business decisions — one dashboard at a time.*
@@ -20,12 +28,6 @@
 I'm a **Senior Data Analyst with 7+ years of experience** delivering enterprise-grade BI, reporting, and analytics solutions. I've built **8+ enterprise dashboards** for global clients including **Amazon Prime Video** and **Urban Company**, improving reporting efficiency and optimizing dashboard performance by **40%**.
 
 Currently upskilling via a **Diploma in Data Science** at AAFT University and holding a freshly earned **Microsoft Fabric Fundamentals** certification.
-
-- 🔭 Currently learning **Microsoft Fabric, NLP & Advanced Machine Learning**
-- 🏆 **Employee of the Year 2023** — M&C Saatchi Performance
-- ⚡ Fun fact: I transitioned from **Mechanical Engineering → QA → Data Analytics** — proving data finds its way into every discipline!
-
----
 
 ## 🛠️ Tech Stack
 
@@ -62,14 +64,6 @@ Currently upskilling via a **Diploma in Data Science** at AAFT University and ho
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/harishus2013hk-web)
 [![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/harishus2013hk-web)
 [![TF-IDF](https://img.shields.io/badge/TF--IDF-0277BD?style=flat-square&logo=python&logoColor=white)](https://github.com/harishus2013hk-web)
-
-> Built a content-based recommendation engine using **Python, TF-IDF, NLP & cosine similarity** to recommend similar movies from 4,800+ titles.
-
-**Highlights:**
-- 📁 End-to-end ML pipeline: data preprocessing → feature engineering → model building
-- 🧠 Used **NLTK & Scikit-learn** for NLP-driven feature extraction
-- 💾 Deployment-ready serialization with **Pickle**
-- 🎯 Trained on a dataset of **4,800+ movies**
 
 ---
 
